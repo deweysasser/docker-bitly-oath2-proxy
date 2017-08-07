@@ -1,8 +1,4 @@
-Make Library
+OAUTH2 Proxy
 ============
 
-Aside from including
-[base-repo](http://github.com/deweysasser/base-repo), this provides an
-includable set of make recipes for use in other projects.
-
-See [ToolUse.md] for more information.
+Package https://github.com/bitly/oauth2_proxy for docker usage.
